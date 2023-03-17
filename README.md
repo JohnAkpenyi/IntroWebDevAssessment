@@ -2,7 +2,7 @@
  Intro To Web Development WITHYOUWITHME Summative assessment
 
 Wireframes:
-![wireframes.png](..%2F..%2F..%2FDesktop%2Fwireframes.png)
+![wireframes.png](https://github.com/JohnAkpenyi/IntroWebDevAssessment/blob/main/wireframes.png)
 
 Flowchart:
-![flowchat.png](..%2F..%2F..%2FDesktop%2Fflowchat.png)
+![flowchat.png](https://github.com/JohnAkpenyi/IntroWebDevAssessment/blob/main/flowchat.png)
