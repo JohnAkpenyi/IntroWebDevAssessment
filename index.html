@@ -4,9 +4,19 @@
   <meta charset="UTF-8">
   <title>Random User's</title>
   <link rel="stylesheet" type="text/css" href="styles.css" />
-  <script src="index.js"></script>
 </head>
 <body>
+
+<div class="box">
+  <h1> How many random users do you want?</h1>
+
+  <form action="results.html">
+    <input type="number" id="quantity" name="quantity" min="1" max="5000" value="1" aria-valuemin="1">
+    <label for="quantity">5000 max</label>
+    <input type="submit" value="Fetch">
+  </form>
+
+</div>
 
 </body>
 </html>
